@@ -30,7 +30,7 @@ const CONFIG = {
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
   HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
-  //   HERO_RECOMMEND_COVER: 'https://cdn.jsdelivr.net/gh/JonasTech0/Jonas-imgs-240211/2024-02-11-WebDownloads/DQ.jpeg', // 英雄区右侧图片
+  //   HERO_RECOMMEND_COVER: 'https://image.lcyteam.link/file/88db31174b84bd6ae7d61.jpg', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
