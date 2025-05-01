@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'blog.lcyteam.me',
   HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: '使用 LCY Cloud Pro 2024 管理您的文件',
+  HEO_HERO_TITLE_5: '使用 LCY Cloud Pro 2025 管理您的文件',
   HEO_HERO_TITLE_LINK: 'https://cloud.lcyteam.me',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
