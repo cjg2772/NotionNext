@@ -20,7 +20,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'https://blog.lcyteam.me',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: 'LCY Music Pro',
-  HEO_HERO_TITLE_LINK: 'https://music.lcyteam.me',
+  HEO_HERO_TITLE_LINK: 'https://blog.lcyteam.me/article/music',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
